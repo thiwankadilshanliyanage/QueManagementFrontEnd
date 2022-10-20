@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "41982050191",
+    "project_id": "queuemangementnotification",
+    "storage_bucket": "queuemangementnotification.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41982050191:android:394832aaee05026b4555fa",
+        "android_client_info": {
+          "package_name": "com.frontend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "41982050191-711l3rd7l1kc4r1m0n53iu6sasdgdgg5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJDoTCpK2r3W0aQfytpF6skkoTXbC3UUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "41982050191-711l3rd7l1kc4r1m0n53iu6sasdgdgg5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

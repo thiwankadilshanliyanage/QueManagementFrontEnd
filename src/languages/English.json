@@ -1,0 +1,20 @@
+{
+    "translation":{
+        "welcomeText":"Hello",
+        "newSim":"New Sim Request",
+        "simNotWork":"Sim Not Working",
+        "simRegi":"Sim Registration",
+        "other":"Other",
+        "issueType":"Issue Type",
+        "remark":"Remark",
+        "review":"Add Issue Here",
+        "submit":"Submit",
+        "user":"User",
+        "logout":"Logout",
+        "lang":"Change Language",
+        "noti":"Notification",
+        "home":"Home"
+        
+
+    }
+}
